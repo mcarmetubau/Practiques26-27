@@ -33,3 +33,6 @@ Realitza el pull request (amb un missatge de commit significatiu) i espera que s
 - [SSC](files/ssc.md)
 
 
+- [RBR](files/RBR.md)
+- [bvm](files/bvm.md)
+- [MSF](files/msf.md)
