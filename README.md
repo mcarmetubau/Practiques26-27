@@ -30,5 +30,6 @@ Realitza el pull request (amb un missatge de commit significatiu) i espera que s
 - [AA](files/aa.md)
 - [psg](files/psg.md)
 - [AEO](files/aeo.md)
+- [PFM](files/pfm.md)
 
 
