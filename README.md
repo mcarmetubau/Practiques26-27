@@ -1,4 +1,4 @@
-# Practiques26-27
+ractiques26-27
 
 ## Repositori per realitzar l'exercici de Pull Request
 
@@ -9,7 +9,6 @@ Què has de fer:
     * Has de canviar el fitxer README.md per afegir un enllaç a la llista, on posi les teves inicials i vagi al fitxer que crearàs al directori files.
 
     * Crea un fitxer al directori files, que s'anomeni teves_inicials.md (en el meu cas s'anomena mct.md) i on escriguis a markdown la resposta a la pregunta: ** Quina assignatura t'agrada més? I per què? **
-
 Realitza el pull request (amb un missatge de commit significatiu) i espera que sigui acceptat per mi. En acabar l'exercici has de sincronitzar el teu repositori perquè tinguis tots els fitxers de tots els teus companys.
 
 ## Aquesta és la llista que tens que modificar
@@ -30,6 +29,9 @@ Realitza el pull request (amb un missatge de commit significatiu) i espera que s
 - [AA](files/aa.md)
 - [psg](files/psg.md)
 - [AEO](files/aeo.md)
+- [SSC](files/ssc.md)
+
+
 - [RBR](files/RBR.md)
 - [bvm](files/bvm.md)
 - [MSF](files/msf.md)
